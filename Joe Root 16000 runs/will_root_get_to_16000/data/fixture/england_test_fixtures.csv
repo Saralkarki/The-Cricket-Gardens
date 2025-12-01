@@ -1,0 +1,12 @@
+match_type,tournament_id,tournament_name,venue_city,venue_full_name,venue_coordinates,team1_id,team1_name,team2_id,team2_name
+TEST,76189,England in Australia,Perth,Optus Stadium,"{'longitude': 115.88903, 'latitude': -31.951111}",15,Australia,11,England
+TEST,76189,England in Australia,Brisbane,Brisbane Cricket Ground,"{'longitude': 153.038071, 'latitude': -27.485596}",15,Australia,11,England
+TEST,76189,England in Australia,Adelaide,Adelaide Oval,"{'longitude': 138.596039, 'latitude': -34.915386}",15,Australia,11,England
+TEST,76189,England in Australia,Melbourne,Melbourne Cricket Ground,"{'longitude': 144.98349, 'latitude': -37.819775}",15,Australia,11,England
+TEST,76189,England in Australia,Sydney,Sydney Cricket Ground,"{'longitude': 151.224838, 'latitude': -33.891647}",15,Australia,11,England
+TEST,76720,New Zealand in England,Lord's,Lord's Cricket Ground,"{'longitude': -0.172943, 'latitude': 51.529419}",11,England,16,New Zealand
+TEST,76720,New Zealand in England,The Oval,The Kia Oval,"{'longitude': -0.114722, 'latitude': 51.483738}",11,England,16,New Zealand
+TEST,76720,New Zealand in England,Nottingham,Trent Bridge,"{'longitude': -1.132148, 'latitude': 52.936897}",11,England,16,New Zealand
+TEST,76722,Pakistan in England,Leeds,Headingley,"{'longitude': -1.58208, 'latitude': 53.81765}",11,England,20,Pakistan
+TEST,76722,Pakistan in England,Lord's,Lord's Cricket Ground,"{'longitude': -0.172943, 'latitude': 51.529419}",11,England,20,Pakistan
+TEST,76722,Pakistan in England,Birmingham,Edgbaston,"{'longitude': -1.902735, 'latitude': 52.45573}",11,England,20,Pakistan

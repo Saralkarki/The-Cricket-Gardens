@@ -1,0 +1,41 @@
+match_type,tournament_id,tournament_name,venue_city,venue_full_name,venue_coordinates,team1_id,team1_name,team2_id,team2_name
+ODI,75538,South Africa in England,Leeds,Headingley,"{'longitude': -1.58208, 'latitude': 53.81765}",11,England,19,South Africa
+ODI,75538,South Africa in England,Lord's,Lord's Cricket Ground,"{'longitude': -0.172943, 'latitude': 51.529419}",11,England,19,South Africa
+ODI,75538,South Africa in England,Southampton,Utilita Bowl,"{'longitude': -1.322051, 'latitude': 50.924122}",11,England,19,South Africa
+T20I,75538,South Africa in England,Cardiff,Sophia Gardens,"{'longitude': -3.19209, 'latitude': 51.487507}",11,England,19,South Africa
+T20I,75538,South Africa in England,Manchester,Emirates Old Trafford,"{'longitude': -2.28916, 'latitude': 53.457924}",11,England,19,South Africa
+T20I,75538,South Africa in England,Nottingham,Trent Bridge,"{'longitude': -1.132148, 'latitude': 52.936897}",11,England,19,South Africa
+T20I,76659,England in Ireland,Dublin (Mal),The Village,"{'longitude': -6.160244, 'latitude': 53.448883}",12,Ireland,11,England
+T20I,76659,England in Ireland,Dublin (Mal),The Village,"{'longitude': -6.160244, 'latitude': 53.448883}",12,Ireland,11,England
+T20I,76659,England in Ireland,Dublin (Mal),The Village,"{'longitude': -6.160244, 'latitude': 53.448883}",12,Ireland,11,England
+T20I,76710,England in New Zealand,Christchurch,Hagley Oval,"{'longitude': 172.619293, 'latitude': -43.53418}",16,New Zealand,11,England
+T20I,76710,England in New Zealand,Christchurch,Hagley Oval,"{'longitude': 172.619293, 'latitude': -43.53418}",16,New Zealand,11,England
+T20I,76710,England in New Zealand,Auckland,Eden Park,"{'longitude': 174.744751, 'latitude': -36.874958}",16,New Zealand,11,England
+ODI,76710,England in New Zealand,Mount Maunganui,Bay Oval,"{'longitude': 176.190704, 'latitude': -37.652794}",16,New Zealand,11,England
+ODI,76710,England in New Zealand,Hamilton,Seddon Park,"{'longitude': 175.274292, 'latitude': -37.786697}",16,New Zealand,11,England
+ODI,76710,England in New Zealand,Wellington (WRS),Sky Stadium,"{'longitude': 174.785889, 'latitude': -41.272957}",16,New Zealand,11,England
+TEST,76189,England in Australia,Perth,Optus Stadium,"{'longitude': 115.88903, 'latitude': -31.951111}",15,Australia,11,England
+TEST,76189,England in Australia,Brisbane,Brisbane Cricket Ground,"{'longitude': 153.038071, 'latitude': -27.485596}",15,Australia,11,England
+TEST,76189,England in Australia,Adelaide,Adelaide Oval,"{'longitude': 138.596039, 'latitude': -34.915386}",15,Australia,11,England
+TEST,76189,England in Australia,Melbourne,Melbourne Cricket Ground,"{'longitude': 144.98349, 'latitude': -37.819775}",15,Australia,11,England
+TEST,76189,England in Australia,Sydney,Sydney Cricket Ground,"{'longitude': 151.224838, 'latitude': -33.891647}",15,Australia,11,England
+TEST,76720,New Zealand in England,Lord's,Lord's Cricket Ground,"{'longitude': -0.172943, 'latitude': 51.529419}",11,England,16,New Zealand
+TEST,76720,New Zealand in England,The Oval,The Kia Oval,"{'longitude': -0.114722, 'latitude': 51.483738}",11,England,16,New Zealand
+TEST,76720,New Zealand in England,Nottingham,Trent Bridge,"{'longitude': -1.132148, 'latitude': 52.936897}",11,England,16,New Zealand
+T20I,76721,India in England,Chester-le-Street,Banks Homes Riverside,"{'longitude': -1.560957, 'latitude': 54.84948}",11,England,14,India
+T20I,76721,India in England,Manchester,Emirates Old Trafford,"{'longitude': -2.28916, 'latitude': 53.457924}",11,England,14,India
+T20I,76721,India in England,Nottingham,Trent Bridge,"{'longitude': -1.132148, 'latitude': 52.936897}",11,England,14,India
+T20I,76721,India in England,Bristol,Seat Unique Stadium,"{'longitude': -2.584355, 'latitude': 51.477051}",11,England,14,India
+T20I,76721,India in England,Southampton,Utilita Bowl,"{'longitude': -1.322051, 'latitude': 50.924122}",11,England,14,India
+ODI,76721,India in England,Birmingham,Edgbaston,"{'longitude': -1.902735, 'latitude': 52.45573}",11,England,14,India
+ODI,76721,India in England,Cardiff,Sophia Gardens,"{'longitude': -3.19209, 'latitude': 51.487507}",11,England,14,India
+ODI,76721,India in England,Lord's,Lord's Cricket Ground,"{'longitude': -0.172943, 'latitude': 51.529419}",11,England,14,India
+TEST,76722,Pakistan in England,Leeds,Headingley,"{'longitude': -1.58208, 'latitude': 53.81765}",11,England,20,Pakistan
+TEST,76722,Pakistan in England,Lord's,Lord's Cricket Ground,"{'longitude': -0.172943, 'latitude': 51.529419}",11,England,20,Pakistan
+TEST,76722,Pakistan in England,Birmingham,Edgbaston,"{'longitude': -1.902735, 'latitude': 52.45573}",11,England,20,Pakistan
+T20I,76724,Sri Lanka in England,Southampton,Utilita Bowl,"{'longitude': -1.322051, 'latitude': 50.924122}",11,England,13,Sri Lanka
+T20I,76724,Sri Lanka in England,Cardiff,Sophia Gardens,"{'longitude': -3.19209, 'latitude': 51.487507}",11,England,13,Sri Lanka
+T20I,76724,Sri Lanka in England,Manchester,Emirates Old Trafford,"{'longitude': -2.28916, 'latitude': 53.457924}",11,England,13,Sri Lanka
+ODI,76724,Sri Lanka in England,Chester-le-Street,Banks Homes Riverside,"{'longitude': -1.560957, 'latitude': 54.84948}",11,England,13,Sri Lanka
+ODI,76724,Sri Lanka in England,Leeds,Headingley,"{'longitude': -1.58208, 'latitude': 53.81765}",11,England,13,Sri Lanka
+ODI,76724,Sri Lanka in England,The Oval,The Kia Oval,"{'longitude': -0.114722, 'latitude': 51.483738}",11,England,13,Sri Lanka
